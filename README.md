@@ -28,7 +28,7 @@ I'm a 22-year-old Software Engineering  with a strong passion for learning new t
 - 🔱 I’m currently working on Olympuz Project on Nextjs.
 - 📝 I’m currently learning more about advanced JavaScript/TypeScript and exploring more  protocols, Testing, scalable etc.
 - 💬 ping me about anything  related :smile:.
-- 📫 How to reach me: email me [ce.andreaguilar@gmail.com](mailto:ce.andreaguilar@gmail.com), you can also contact me from my [website]().
+- 📫 How to reach me: email me [ce.andreaguilar@gmail.com](mailto:ce.andreaguilar@gmail.com), you can also contact me from my [website](https://cesarandre940.github.io/Cesar-s-Portfolio/).
 
 
 ## :hammer_and_wrench: Languages and Tools:
