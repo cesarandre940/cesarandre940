@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
   
-  <a href="https://cesarandre940.github.io/Cesar-s-Portfolio/">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
+ 
   
 </div>
 
@@ -24,12 +22,6 @@
 As an experienced Software Engineer proficient in HTML, CSS, JavaScript, TypeScript React, and Git, I’ve developed my skills through hands-on work in diverse organizations. Having held web development roles at two companies, I bring a solid foundation of practical knowledge and problem-solving expertise to my current position. At Olympuz, I’m currently working on custom web solutions for internal management and performance tracking systems, this role has allowed me to sharpen my skills and stay current with the latest industry trends. I'm passionate about building innovative, scalable solutions that contribute to business growth and help organizations reach their goals.
 
 I'm a 22-year-old Software Engineering  with a strong passion for learning new technologies and building innovative solutions through code. I take pride in producing high-quality work and continuously strive to exceed expectations. If you're looking for a driven and reliable developer, I'd be excited to connect and explore potential opportunities.
-
-- 🔱 I’m currently working on Olympuz Project on Nextjs.
-- 📝 I’m currently learning more about advanced JavaScript/TypeScript and exploring more  protocols, Testing, scalable etc.
-- 💬 ping me about anything  related :smile:.
-- 📫 How to reach me: email me [ce.andreaguilar@gmail.com](mailto:ce.andreaguilar@gmail.com), you can also contact me from my [website](https://cesarandre940.github.io/Cesar-s-Portfolio/).
-
 
 ## :hammer_and_wrench: Languages and Tools:
 
