@@ -27,8 +27,7 @@ As an experienced Software Engineer proficient in HTML, CSS, JavaScript, TypeScr
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,astro,nextjs,postman,prisma,git,github,vscode)](https://skillicons.dev)
   
-## :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarandre940&theme=github_dark)](https://github.com/cesarandre940/github-readme-stats)
+
 
 
 
