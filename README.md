@@ -1,33 +1,39 @@
-<div id="hey" align="center">
-  <h1>
-    Hi!
-    I'm Cesar Aguilar
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>
+# Cesar Aguilar ⇒ Web Developer & AI Specialist
 
-<div id="badges" align="center">
-  <a href="mailto:ce.andreaguilar@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  
- 
-  
-</div>
+```TypeScript
 
+type Strengths = {
+  webEngineering: string;
+  multimodalAI: string;
+  productionArchitecture: string;
+};
 
+const solveComplexProblems = (): Strengths => ({
+  webEngineering: "Scalable, modular web applications",
+  multimodalAI: "Voice, text, and image systems",
+  productionArchitecture: "CI/CD pipelines and clean architecture",
+});
+```
 
+---
 
-## :man_technologist: About Me:
-As an experienced Software Engineer proficient in HTML, CSS, JavaScript, TypeScript React, and Git, I’ve developed my skills through hands-on work in diverse organizations. Having held web development roles at two companies, I bring a solid foundation of practical knowledge and problem-solving expertise to my current position. At Olympuz, I’m currently working on custom web solutions for internal management and performance tracking systems, this role has allowed me to sharpen my skills and stay current with the latest industry trends. I'm passionate about building innovative, scalable solutions that contribute to business growth and help organizations reach their goals.
+## 🎯 **Focus**
 
+- **Modern Web Development** → scalable frontends, API design, performance optimization, clean architecture
+- **AI Systems Integration** → LLM-powered features, RAG pipelines, multimodal interfaces, production-ready AI services
 
+---
 
-## :hammer_and_wrench: Languages and Tools:
+### 💼 **Work**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,astro,nextjs,postman,prisma,git,github,vscode)](https://skillicons.dev)
-  
+- **Web Development** → React/Next.js applications, REST/GraphQL APIs, cloud-native deployments
+- **AI Feature Engineering** → LLM integration, semantic search and knowledge retrieval pipelines
+- **System Architecture** → modular design, shared domain logic, CI/CD pipelines, observability
 
+**AI/ML**: Prompt Engineering • Multi-agents • RAG • Context Engineering
 
+---
 
+## 🌐 **Languages**
 
+🇪🇸 Spanish (Native) • 🇺🇸 English (C1)
